@@ -1,0 +1,15 @@
+            * {
+                padding: 0;
+                margin: 0;
+            }
+  
+            body, html, #game {
+                height: 100%;
+                background: #FCFCFC;
+            }
+  
+            #game {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
